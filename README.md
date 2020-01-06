@@ -1,7 +1,7 @@
-# Lab Monitor
+# Network Monitor
 
-Lab Monitor is a watchdog for all your lab devices - routers, switches, firewalls, servers.
+Network Monitor or NetMon for short is a watchdog for all your devices in network - routers, switches, firewalls, servers.
 
 Popular Features:
-* Checking if your device status
-* Alerts for various statuses of devices
+* Checking your device status
+* Alerts for various device events
