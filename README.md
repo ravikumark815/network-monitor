@@ -5,3 +5,6 @@ Network Monitor or __NetMon__ for short is a watchdog for all your devices in ne
 Popular Features:
 * Checking your device status
 * Alerts for various device events
+
+Python Packages installed:
+* django
